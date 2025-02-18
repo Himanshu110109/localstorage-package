@@ -1,0 +1,23 @@
+{
+  "name": "localstorage-package",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "an npm package for localStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu110109/localstorage-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Himanshu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Himanshu110109/localstorage-package/issues"
+  },
+  "homepage": "https://github.com/Himanshu110109/localstorage-package#readme"
+}
