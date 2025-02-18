@@ -2,14 +2,18 @@
 An npm package for localstorage.
 
 # Instructions for using 
-#import package
+//import package
+
 import {setKey, getKey, removeKey} from "codify-storage";
 
-#using setKey
+//using setKey
+
 setKey(key, value);
 
-#using getKey
+//using getKey
+
 getKey(key);
 
 #using removeKey
+
 removeKey(key);
